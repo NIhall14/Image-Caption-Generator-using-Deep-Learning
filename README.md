@@ -1,6 +1,6 @@
 
 This Image Caption Generator project uses a combination of InceptionV3 for feature extraction and a custom Transformer model for generating natural language descriptions of input images. The model is optimized using the Adam optimizer.
-This Project heas many benefits-
+This Project has many benefits-
 
 1.Enhanced Accessibility:
 By generating textual descriptions for images, the project makes visual content more accessible to visually impaired individuals, enabling them to better understand the content of images.
